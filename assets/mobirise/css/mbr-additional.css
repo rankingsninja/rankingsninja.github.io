@@ -504,13 +504,13 @@ h6,
   font-size: 20px;
 }
 #contacts1-11 P {
-  color: #ffffff;
+  color: #000000;
 }
 #contacts1-11 STRONG {
-  color: #ffffff;
+  color: #000000;
 }
 #footer1-12 P {
-  color: #000000;
+  color: #ffffff;
   text-align: right;
 }
 #menu-13 .hide-buttons .nav-btn {
@@ -599,13 +599,13 @@ h6,
   text-align: left;
 }
 #contacts1-1e P {
-  color: #ffffff;
+  color: #000000;
 }
 #contacts1-1e STRONG {
-  color: #ffffff;
+  color: #000000;
 }
 #footer1-1f P {
-  color: #000000;
+  color: #ffffff;
   text-align: right;
 }
 #menu-2n .hide-buttons .nav-btn {
@@ -675,17 +675,6 @@ h6,
 #menu-2n .close-icon::after {
   background-color: #000000;
 }
-#msg-box8-2p .mbr-section-title,
-#msg-box8-2p p {
-  color: #fff;
-}
-#msg-box8-2p .lead {
-  font-size: 32px;
-  color: #ffffff;
-}
-#msg-box8-2p .lead P {
-  font-size: 30px;
-}
 #msg-box8-2s .mbr-section-title,
 #msg-box8-2s p {
   color: #fff;
@@ -699,13 +688,13 @@ h6,
   text-align: left;
 }
 #contacts1-2y P {
-  color: #ffffff;
+  color: #000000;
 }
 #contacts1-2y STRONG {
-  color: #ffffff;
+  color: #000000;
 }
 #footer1-2z P {
-  color: #000000;
+  color: #ffffff;
   text-align: right;
 }
 #menu-30 .hide-buttons .nav-btn {
@@ -795,13 +784,13 @@ h6,
   color: #000000;
 }
 #contacts1-3b P {
-  color: #ffffff;
+  color: #000000;
 }
 #contacts1-3b STRONG {
-  color: #ffffff;
+  color: #000000;
 }
 #footer1-3c P {
-  color: #000000;
+  color: #ffffff;
   text-align: right;
 }
 #menu-3d .hide-buttons .nav-btn {
@@ -1182,17 +1171,6 @@ h6,
 #menu-4g .close-icon::after {
   background-color: #000000;
 }
-#msg-box8-4i .mbr-section-title,
-#msg-box8-4i p {
-  color: #fff;
-}
-#msg-box8-4i .lead {
-  font-size: 32px;
-  color: #ffffff;
-}
-#msg-box8-4i .lead P {
-  font-size: 30px;
-}
 #form1-4q .form-control-label {
   color: #ffffff;
 }
@@ -1200,13 +1178,13 @@ h6,
   color: #ffffff;
 }
 #contacts1-4r P {
-  color: #ffffff;
+  color: #000000;
 }
 #contacts1-4r STRONG {
-  color: #ffffff;
+  color: #000000;
 }
 #footer1-4s P {
-  color: #000000;
+  color: #ffffff;
   text-align: right;
 }
 #menu-4t .hide-buttons .nav-btn {
@@ -1437,12 +1415,12 @@ h6,
   color: #000000;
 }
 #contacts1-l P {
-  color: #ffffff;
+  color: #000000;
 }
 #contacts1-l STRONG {
-  color: #ffffff;
+  color: #000000;
 }
 #footer1-2 P {
-  color: #000000;
+  color: #ffffff;
   text-align: right;
 }
