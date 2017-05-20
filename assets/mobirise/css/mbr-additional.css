@@ -503,6 +503,9 @@ h6,
   text-align: left;
   font-size: 20px;
 }
+#msg-box5-5b H3 {
+  text-align: left;
+}
 #contacts1-11 P {
   color: #000000;
 }
@@ -1399,7 +1402,7 @@ h6,
   text-align: left;
 }
 #msg-box5-57 P {
-  text-align: left;
+  text-align: center;
 }
 #features4-i .card-subtitle {
   color: #bcbcbc;
