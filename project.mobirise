@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Home",
     "name": "Rankings Ninja",
     "theme": {
       "name": "mobirise3",
@@ -130,7 +130,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RANKINGS.NINJA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"analytics.rankings.ninja\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"crm.rankings.ninja\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://analytics.rankings.ninja/\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://crm.rankings.ninja/\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
         },
         {
           "_tags": [
@@ -491,7 +491,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RANKINGS.NINJA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"analytics.rankings.ninja\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"crm.rankings.ninja\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://analytics.rankings.ninja/\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://crm.rankings.ninja/\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
         },
         {
           "_styles": {
@@ -818,7 +818,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RANKINGS.NINJA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"analytics.rankings.ninja\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"crm.rankings.ninja\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://analytics.rankings.ninja/\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://crm.rankings.ninja/\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
         },
         {
           "_styles": {
@@ -1031,48 +1031,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RANKINGS.NINJA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"analytics.rankings.ninja\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"crm.rankings.ninja\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead": {
-              "font-size": "32px",
-              "color": "#ffffff"
-            },
-            ".lead P": {
-              "font-size": "30px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-32",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/laptopsearch-2000x1330.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showText": true,
-            "showButton": true
-          },
-          "title": "WE CREATE PREMIUM ONLINE MARKETING TOOLS AND STRATEGIES DESIGNED TO PUT YOUR BUSINESS IN THE FOREFRONT OF THE EVER GROWING ONLINE MARKETPLACE",
-          "text": "<p><span style=\"line-height: 1.5;\">WE CREATE STRATEGIES DESIGNED TO PUT YOUR BUSINESS IN THE FOREFRONT OF THE EVER GROWING ONLINE MARKETPLACE</span><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://analytics.rankings.ninja/\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://crm.rankings.ninja/\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
         },
         {
           "_tags": [
@@ -1305,48 +1264,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RANKINGS.NINJA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"analytics.rankings.ninja\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"crm.rankings.ninja\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead": {
-              "font-size": "32px",
-              "color": "#ffffff"
-            },
-            ".lead P": {
-              "font-size": "30px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-3f",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/laptopsearch-2000x1330.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showText": true,
-            "showButton": true
-          },
-          "title": "WE CREATE PREMIUM ONLINE MARKETING TOOLS AND STRATEGIES DESIGNED TO PUT YOUR BUSINESS IN THE FOREFRONT OF THE EVER GROWING ONLINE MARKETPLACE",
-          "text": "<p><span style=\"line-height: 1.5;\">WE CREATE STRATEGIES DESIGNED TO PUT YOUR BUSINESS IN THE FOREFRONT OF THE EVER GROWING ONLINE MARKETPLACE</span><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://analytics.rankings.ninja/\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://crm.rankings.ninja/\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
         },
         {
           "_styles": {
@@ -1655,48 +1573,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RANKINGS.NINJA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"analytics.rankings.ninja\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"crm.rankings.ninja\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead": {
-              "font-size": "32px",
-              "color": "#ffffff"
-            },
-            ".lead P": {
-              "font-size": "30px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-3s",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/laptopsearch-2000x1330.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showText": true,
-            "showButton": true
-          },
-          "title": "WE CREATE PREMIUM ONLINE MARKETING TOOLS AND STRATEGIES DESIGNED TO PUT YOUR BUSINESS IN THE FOREFRONT OF THE EVER GROWING ONLINE MARKETPLACE",
-          "text": "<p><span style=\"line-height: 1.5;\">WE CREATE STRATEGIES DESIGNED TO PUT YOUR BUSINESS IN THE FOREFRONT OF THE EVER GROWING ONLINE MARKETPLACE</span><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://analytics.rankings.ninja/\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://crm.rankings.ninja/\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
         },
         {
           "_styles": {
@@ -2005,7 +1882,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RANKINGS.NINJA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"analytics.rankings.ninja\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"crm.rankings.ninja\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://analytics.rankings.ninja/\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://crm.rankings.ninja/\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
         },
         {
           "_styles": {
@@ -2047,206 +1924,6 @@
           "title": "WE CREATE PREMIUM ONLINE MARKETING TOOLS AND STRATEGIES DESIGNED TO PUT YOUR BUSINESS IN THE FOREFRONT OF THE EVER GROWING ONLINE MARKETPLACE",
           "text": "<p><span style=\"line-height: 1.5;\">WE CREATE STRATEGIES DESIGNED TO PUT YOUR BUSINESS IN THE FOREFRONT OF THE EVER GROWING ONLINE MARKETPLACE</span><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "left",
-              "color": "#000000"
-            },
-            ".mbr-section-text": {
-              "text-align": "left",
-              "color": "#000000"
-            }
-          },
-          "_anchor": "header2-46",
-          "_params": {
-            "imageSize": "58",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#ffffff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/best-long-beach-landscaper-search-1400x1105.png",
-              "link": "",
-              "alt": "SEARCH ENGINE RANKINGS PLACEMENT",
-              "title": "SEARCH ENGINE RANKINGS PLACEMENT",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "PAY FOR RESULTS",
-          "text": "Accurate Information<br>Accurate business information on important online directories will help boost your business when people in your market are searching for what you offer.<br><br>Start with any budget<br>We are so great at what we do that if you have a small marketing budget to start we will work with you to grow so that we both win once your business is thriving.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#000000",
-              "border-color": "#000000"
-            },
-            "H4": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features4",
-          "_anchor": "features4-47",
-          "_params": {
-            "iconsBgColor": "#000000",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 3,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "responsive",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff"
-            }
-          },
-          "title1": "WEBSITE OPTIMIZATION",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "We can often work within your existing website to optimize your site for speed, performance and search engine rankings.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "growing-chart",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff"
-            }
-          },
-          "title2": "LOCAL SEO RANKINGS",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "We are able to consistently raise your rankings in the Google Local Map Pack as well as similar sections on Yahoo &amp; Bing through tried and true techniques.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "link",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff"
-            }
-          },
-          "title3": "BEST LINK TACTICS",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "We only submit your content when it's fresh, relevant and your links come from a website that is safe to receive links from.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -2417,7 +2094,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RANKINGS.NINJA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"analytics.rankings.ninja\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"crm.rankings.ninja\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://analytics.rankings.ninja/\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://crm.rankings.ninja/\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
         },
         {
           "_tags": [
@@ -2550,7 +2227,409 @@
         }
       ]
     },
-    "index.html": {
+    "robots.txt": {
+      "settings": {
+        "title": "Robots",
+        "meta_descr": "",
+        "header_custom": "<!-- Piwik -->\n<script type=\"text/javascript\">\n  var _paq = _paq || [];\n  /* tracker methods like \"setCustomDimension\" should be called before \"trackPageView\" */\n  _paq.push(['trackPageView']);\n  _paq.push(['enableLinkTracking']);\n  (function() {\n    var u=\"//35.184.126.159/\";\n    _paq.push(['setTrackerUrl', u+'piwik.php']);\n    _paq.push(['setSiteId', '1']);\n    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];\n    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);\n  })();\n</script>\n<!-- End Piwik Code -->\n\n<html lang=\"en\" xml:lang=\"en\" xmlns=\"http://www.w3.org/1999/xhtml\">",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 10
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-5e",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/oie-transparent-1-215x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RANKINGS.NINJA</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://analytics.rankings.ninja/\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://crm.rankings.ninja/\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-5g",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rankingsninjawithcomputer-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "RANKINGS NINJA",
+              "title": "RANKINGS NINJA",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br><br>Orange, CA 92867",
+          "text2": "<strong>Contacts</strong><br>\nEmail: sales@rankings.ninja<br>\nPhone: +1 &nbsp;714 202 6686<br><br>",
+          "text3": "<strong>Links</strong><br><a href=\"http://analytics.rankings.ninja/\" target=\"_blank\" class=\"text-danger\">ANALYTICS LOGIN</a><br><a href=\"http://crm.rankings.ninja/\" target=\"_blank\" class=\"text-danger\">RELATIONSHIP MANAGEMENT LOGIN</a><br><a href=\"http://jonathansouth.ongooglesolutions.com/\" target=\"_blank\" class=\"text-danger\">GOOGLE SUITE</a><br>TERMS AND AGREEMENT"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-5h",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 RANKINGS.NINJA"
+        }
+      ]
+    },
+    "contact-us": {
+      "settings": {
+        "title": "Contact Us - Rankings Ninja",
+        "meta_descr": "",
+        "header_custom": "<!-- Piwik -->\n<script type=\"text/javascript\">\n  var _paq = _paq || [];\n  /* tracker methods like \"setCustomDimension\" should be called before \"trackPageView\" */\n  _paq.push(['trackPageView']);\n  _paq.push(['enableLinkTracking']);\n  (function() {\n    var u=\"//35.184.126.159/\";\n    _paq.push(['setTrackerUrl', u+'piwik.php']);\n    _paq.push(['setSiteId', '1']);\n    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];\n    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);\n  })();\n</script>\n<!-- End Piwik Code -->\n\n<html lang=\"en\" xml:lang=\"en\" xmlns=\"http://www.w3.org/1999/xhtml\">",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 9
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-4g",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/oie-transparent-1-215x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RANKINGS.NINJA</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://analytics.rankings.ninja/\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://crm.rankings.ninja/\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "form1-4q",
+          "_params": {
+            "labelsColor": "#ffffff",
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubTitle": false
+          },
+          "title": "Response Time is 2 Hrs Or Less",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "trysouthmarketing@gmail.com",
+            "alerts": {
+              "success": "OUR NINJAS ARE ON TOP OF IT!\n\nDID YOU KNOW YOU CAN ALSO TEXT US?!\n(714)202-6686"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Be Sure To Include Business Name, Business Phone Number, General Information In Your Message!"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "STRONG": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-4r",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rankingsninjawithcomputer-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "RANKINGS NINJA",
+              "title": "RANKINGS NINJA",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br><br>Orange, CA 92867",
+          "text2": "<strong>Contacts</strong><br>\nEmail: sales@rankings.ninja<br>\nPhone: +1 &nbsp;714 202 6686<br><br>",
+          "text3": "<strong>Links</strong><br><a href=\"http://analytics.rankings.ninja/\" target=\"_blank\" class=\"text-danger\">ANALYTICS LOGIN</a><br><a href=\"http://crm.rankings.ninja/\" target=\"_blank\" class=\"text-danger\">RELATIONSHIP MANAGEMENT LOGIN</a><br><a href=\"http://jonathansouth.ongooglesolutions.com/\" target=\"_blank\" class=\"text-danger\">GOOGLE SUITE</a><br>TERMS AND AGREEMENT"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-4s",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 RANKINGS.NINJA"
+        }
+      ]
+    },
+    "Home": {
       "settings": {
         "main": true,
         "title": "Home - Rankings Ninja",
@@ -2649,7 +2728,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RANKINGS.NINJA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"analytics.rankings.ninja\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"crm.rankings.ninja\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://analytics.rankings.ninja/\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://crm.rankings.ninja/\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
         },
         {
           "_tags": [
@@ -3342,408 +3421,6 @@
             }
           },
           "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 RANKINGS.NINJA"
-        }
-      ]
-    },
-    "robots.txt": {
-      "settings": {
-        "title": "Robots",
-        "meta_descr": "",
-        "header_custom": "<!-- Piwik -->\n<script type=\"text/javascript\">\n  var _paq = _paq || [];\n  /* tracker methods like \"setCustomDimension\" should be called before \"trackPageView\" */\n  _paq.push(['trackPageView']);\n  _paq.push(['enableLinkTracking']);\n  (function() {\n    var u=\"//35.184.126.159/\";\n    _paq.push(['setTrackerUrl', u+'piwik.php']);\n    _paq.push(['setSiteId', '1']);\n    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];\n    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);\n  })();\n</script>\n<!-- End Piwik Code -->\n\n<html lang=\"en\" xml:lang=\"en\" xmlns=\"http://www.w3.org/1999/xhtml\">",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 10
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-5e",
-          "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/oie-transparent-1-215x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RANKINGS.NINJA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"analytics.rankings.ninja\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"crm.rankings.ninja\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            },
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts1-5g",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/rankingsninjawithcomputer-128x128.png",
-              "width": 128,
-              "active": true,
-              "link": "index.html",
-              "alt": "RANKINGS NINJA",
-              "title": "RANKINGS NINJA",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br><br>Orange, CA 92867",
-          "text2": "<strong>Contacts</strong><br>\nEmail: sales@rankings.ninja<br>\nPhone: +1 &nbsp;714 202 6686<br><br>",
-          "text3": "<strong>Links</strong><br><a href=\"http://analytics.rankings.ninja/\" target=\"_blank\" class=\"text-danger\">ANALYTICS LOGIN</a><br><a href=\"http://crm.rankings.ninja/\" target=\"_blank\" class=\"text-danger\">RELATIONSHIP MANAGEMENT LOGIN</a><br><a href=\"http://jonathansouth.ongooglesolutions.com/\" target=\"_blank\" class=\"text-danger\">GOOGLE SUITE</a><br>TERMS AND AGREEMENT"
-        },
-        {
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "right"
-            }
-          },
-          "_anchor": "footer1-5h",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 RANKINGS.NINJA"
-        }
-      ]
-    },
-    "contact-us": {
-      "settings": {
-        "title": "Contact Us - Rankings Ninja",
-        "meta_descr": "",
-        "header_custom": "<!-- Piwik -->\n<script type=\"text/javascript\">\n  var _paq = _paq || [];\n  /* tracker methods like \"setCustomDimension\" should be called before \"trackPageView\" */\n  _paq.push(['trackPageView']);\n  _paq.push(['enableLinkTracking']);\n  (function() {\n    var u=\"//35.184.126.159/\";\n    _paq.push(['setTrackerUrl', u+'piwik.php']);\n    _paq.push(['setSiteId', '1']);\n    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];\n    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);\n  })();\n</script>\n<!-- End Piwik Code -->\n\n<html lang=\"en\" xml:lang=\"en\" xmlns=\"http://www.w3.org/1999/xhtml\">",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 9
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-4g",
-          "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/oie-transparent-1-215x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RANKINGS.NINJA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"/\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header3-9\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"advertising\">ADVERTISING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"branding\">BRANDING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"google-suit\">GOOGLE SUIT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo-services\">SEO SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social-media\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design\">WEB DESIGN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\">TESTIMONIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://jonathansouth.ongooglesolutions.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LOGIN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"analytics.rankings.ninja\" target=\"_blank\">CLIENT ANALYTICS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"crm.rankings.ninja\" target=\"_blank\">RELATIONSHIP MANAGER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"Contactus.html\">CLICK TO GET STARTED</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "form1-4q",
-          "_params": {
-            "labelsColor": "#ffffff",
-            "paddingTop": "4",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showSubTitle": false
-          },
-          "title": "Response Time is 2 Hrs Or Less",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "form": {
-            "action": "trysouthmarketing@gmail.com",
-            "alerts": {
-              "success": "OUR NINJAS ARE ON TOP OF IT!\n\nDID YOU KNOW YOU CAN ALSO TEXT US?!\n(714)202-6686"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Be Sure To Include Business Name, Business Phone Number, General Information In Your Message!"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "STRONG": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "contacts1-4r",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/rankingsninjawithcomputer-128x128.png",
-              "width": 128,
-              "active": true,
-              "link": "index.html",
-              "alt": "RANKINGS NINJA",
-              "title": "RANKINGS NINJA",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br><br>Orange, CA 92867",
-          "text2": "<strong>Contacts</strong><br>\nEmail: sales@rankings.ninja<br>\nPhone: +1 &nbsp;714 202 6686<br><br>",
-          "text3": "<strong>Links</strong><br><a href=\"http://analytics.rankings.ninja/\" target=\"_blank\" class=\"text-danger\">ANALYTICS LOGIN</a><br><a href=\"http://crm.rankings.ninja/\" target=\"_blank\" class=\"text-danger\">RELATIONSHIP MANAGEMENT LOGIN</a><br><a href=\"http://jonathansouth.ongooglesolutions.com/\" target=\"_blank\" class=\"text-danger\">GOOGLE SUITE</a><br>TERMS AND AGREEMENT"
-        },
-        {
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "text-align": "right"
-            }
-          },
-          "_anchor": "footer1-4s",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
