@@ -2954,7 +2954,7 @@
           },
           "title": "<div style=\"text-align: center;\"><i>PUT SOME NINJA IN YOUR BUSINESS</i></div>",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Contactus.html\" data-toolbar=\"-mbrBtnMove\">SCHEDULE FREE CONSULTATION</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Contact-us\" data-toolbar=\"-mbrBtnMove\">SCHEDULE FREE CONSULTATION</a>"
         },
         {
           "_styles": {
