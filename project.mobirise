@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 272,
+    "uniqCompNum": 275,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -5018,53 +5018,33 @@
         }
       ]
     },
-    "site-map.xml": {
+    "sitemap.xml": {
       "settings": {
-        "title": "Home - Rankings Ninja",
+        "title": "Site-Map XML",
         "meta_descr": "",
-        "header_custom": "<!-- Piwik -->\n<script type=\"text/javascript\">\n  var _paq = _paq || [];\n  /* tracker methods like \"setCustomDimension\" should be called before \"trackPageView\" */\n  _paq.push(['trackPageView']);\n  _paq.push(['enableLinkTracking']);\n  (function() {\n    var u=\"//35.184.126.159/\";\n    _paq.push(['setTrackerUrl', u+'piwik.php']);\n    _paq.push(['setSiteId', '1']);\n    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];\n    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);\n  })();\n</script>\n<!-- End Piwik Code -->\n<html lang=\"en\" xml:lang=\"en\" xmlns=\"http://www.w3.org/1999/xhtml\">",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": "",
         "order": 1
       },
       "components": [
         {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".lead": {
-              "text-align": "left"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-7j",
+          "_name": "content1",
+          "_anchor": "content1-7m",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showText": true,
-            "showButton": false
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
           },
-          "title": "",
-          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">-&lt;urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"&gt;</span><br><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/&lt;/loc&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/index.html&lt;/loc&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/contact-us&lt;/loc&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/analytics.rankings.ninja&lt;/loc&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/crm.rankings.ninja&lt;/loc&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/advertising&lt;/loc&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>+&lt;url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/google-suit&lt;/loc&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/seo-services&lt;/loc&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/social-media&lt;/loc&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/web-design&lt;/loc&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/tools&lt;/loc&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div>&lt;/urlset&gt;</div>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "text": "&lt;?xml version=\"1.0\" encoding=\"UTF-8\"?&gt;<div><br></div><div>-&lt;urlset xsi:schemalocation=\"http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"&gt;</div><div><br></div><div>&lt;!-- created with Free Online Sitemap Generator www.xml-sitemaps.com --&gt;</div><div><br></div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/&lt;/loc&gt;</div><div><br></div><div>&lt;lastmod&gt;2017-05-21T21:39:44+00:00&lt;/lastmod&gt;</div><div><br></div><div>&lt;changefreq&gt;monthly&lt;/changefreq&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/index.html&lt;/loc&gt;</div><div><br></div><div>&lt;lastmod&gt;2017-05-21T21:39:44+00:00&lt;/lastmod&gt;</div><div><br></div><div>&lt;changefreq&gt;monthly&lt;/changefreq&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/advertising&lt;/loc&gt;</div><div><br></div><div>&lt;lastmod&gt;2017-05-21T21:39:44+00:00&lt;/lastmod&gt;</div><div><br></div><div>&lt;changefreq&gt;monthly&lt;/changefreq&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/branding&lt;/loc&gt;</div><div><br></div><div>&lt;lastmod&gt;2017-05-21T21:39:44+00:00&lt;/lastmod&gt;</div><div><br></div><div>&lt;changefreq&gt;monthly&lt;/changefreq&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/google-suit&lt;/loc&gt;</div><div><br></div><div>&lt;lastmod&gt;2017-05-21T21:39:44+00:00&lt;/lastmod&gt;</div><div><br></div><div>&lt;changefreq&gt;monthly&lt;/changefreq&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/seo-services&lt;/loc&gt;</div><div><br></div><div>&lt;lastmod&gt;2017-05-21T21:39:44+00:00&lt;/lastmod&gt;</div><div><br></div><div>&lt;changefreq&gt;monthly&lt;/changefreq&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/social-media&lt;/loc&gt;</div><div><br></div><div>&lt;lastmod&gt;2017-05-21T21:39:44+00:00&lt;/lastmod&gt;</div><div><br></div><div>&lt;changefreq&gt;monthly&lt;/changefreq&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/web-design&lt;/loc&gt;</div><div><br></div><div>&lt;lastmod&gt;2017-05-21T21:39:44+00:00&lt;/lastmod&gt;</div><div><br></div><div>&lt;changefreq&gt;monthly&lt;/changefreq&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/tools&lt;/loc&gt;</div><div><br></div><div>&lt;lastmod&gt;2017-05-21T21:39:44+00:00&lt;/lastmod&gt;</div><div><br></div><div>&lt;changefreq&gt;monthly&lt;/changefreq&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/contact-us&lt;/loc&gt;</div><div><br></div><div>&lt;lastmod&gt;2017-05-21T21:39:44+00:00&lt;/lastmod&gt;</div><div><br></div><div>&lt;changefreq&gt;monthly&lt;/changefreq&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div><br></div><div>-&lt;url&gt;</div><div><br></div><div>&lt;loc&gt;https://rankingsninja.github.io/termsandconditions&lt;/loc&gt;</div><div><br></div><div>&lt;lastmod&gt;2017-05-21T21:39:44+00:00&lt;/lastmod&gt;</div><div><br></div><div>&lt;changefreq&gt;monthly&lt;/changefreq&gt;</div><div><br></div><div>&lt;/url&gt;</div><div><br></div><div>&lt;/urlset&gt;</div>",
+          "_styles": {
+            "DIV": {
+              "font-size": "20px"
+            }
+          }
         }
       ]
     }
