@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Home",
+    "currentPage": "tools",
     "name": "Rankings Ninja",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 250,
+    "uniqCompNum": 251,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -5042,9 +5042,39 @@
           "_JSplaceholders": []
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-6y",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"contact-us\" data-toolbar=\"-mbrBtnMove\">SCHEDULE AN APPOINTMENT</a>",
+          "text": "",
+          "title": "RUN THE SCAN, &amp;&nbsp;<br>GIVE US A CALL"
+        },
+        {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<p></p><p></p><p><iframe id=\"ssc_widget_b85728a7fafceeabadd2b0423a290e88\" scrolling=\"no\" marginheight=\"0\" frameborder=\"0\" height=\"240px\" width=\"600px\" src=\"https://seositecheckup.com/embedded/general_analysis?tool=all_tools&amp;parent_url=https://rankingsninja.github.io&amp;ifrm_id=ssc_widget_b85728a7fafceeabadd2b0423a290e88\"></iframe>\n\n<!-- If you have multiple SSC Widgets on your page, use the script below JUST ONCE -->\n{JS_CODE_0}</p>",
+          "_customHTML": "<center><iframe id=\"ssc_widget_b85728a7fafceeabadd2b0423a290e88\" scrolling=\"no\" marginheight=\"0\" frameborder=\"0\" height=\"240px\" width=\"600px\" src=\"https://seositecheckup.com/embedded/general_analysis?tool=all_tools&amp;parent_url=https://rankingsninja.github.io&amp;ifrm_id=ssc_widget_b85728a7fafceeabadd2b0423a290e88\"></iframe>\n\n<!-- If you have multiple SSC Widgets on your page, use the script below JUST ONCE -->\n{JS_CODE_0}</center>",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
