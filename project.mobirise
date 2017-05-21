@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index",
+    "currentPage": "index.html",
     "name": "Rankings Ninja",
     "theme": {
       "name": "mobirise3",
@@ -4196,7 +4196,7 @@
         }
       ]
     },
-    "index": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home - Rankings Ninja",
@@ -4949,7 +4949,7 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-5u",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
