@@ -1873,3 +1873,10 @@ h6,
   color: #ffffff;
   text-align: right;
 }
+#msg-box3-7j .mbr-section-title,
+#msg-box3-7j p {
+  color: #000;
+}
+#msg-box3-7j .lead {
+  text-align: left;
+}
