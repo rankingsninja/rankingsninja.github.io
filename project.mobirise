@@ -2341,13 +2341,15 @@
               "color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3380,13 +3382,15 @@
               "color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -4550,21 +4554,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#000000",
-              "border-color": "#000000"
-            },
-            "H4": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
@@ -4685,7 +4674,12 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" style=\"background-color: rgb(0, 0, 0);\">\n\n    \n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"mbri-responsive mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(255, 255, 255);\"></a></div>\n                    <div class=\"card-block\">\n                        <h2 class=\"card-title mbr-editable-content\" code-editable-id=\"127\" style=\"color: rgb(255, 255, 255);\">WEBSITE OPTIMIZATION</h2>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"128\">We can often work within your existing website to optimize your site for speed, performance and search engine rankings.</p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"mbri-growing-chart mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(255, 255, 255);\"></a></div>\n                    <div class=\"card-block\">\n                        <h2 class=\"card-title mbr-editable-content\" code-editable-id=\"129\" style=\"color: rgb(255, 255, 255);\">LOCAL SEO RANKINGS</h2>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"130\">We are able to consistently raise your rankings in the Google Local Map Pack as well as similar sections on Yahoo &amp; Bing through tried and true techniques.</p>\n                        \n                    </div>\n                </div>\n          </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"mbri-link mbr-iconfont mbr-iconfont-features4\" style=\"color: rgb(255, 255, 255);\"></a></div>\n                    <div class=\"card-block\">\n                        <h2 class=\"card-title mbr-editable-content\" code-editable-id=\"131\" style=\"color: rgb(255, 255, 255);\">BEST LINK TACTICS</h2>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"132\">We only submit your content when it's fresh, relevant and your links come from a website that is safe to receive links from.</p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n        \n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(undefined);\n.card-subtitle {\n\tcolor: #bcbcbc;\n}\n.iconbox {\n\tbackground-color: #000000;\n\tborder-color: #000000;\n}\nH4 {\n\tcolor: #ffffff;\n}\nP {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true
         },
         {
           "_tags": [
@@ -4799,21 +4793,6 @@
           "_customTemplate": true
         },
         {
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#ffffff",
-              "border-color": "#ffffff"
-            },
-            "P": {
-              "color": "#000000"
-            },
-            "H4": {
-              "color": "#000000"
-            }
-          },
           "_tags": [
             "Theme"
           ],
@@ -4934,7 +4913,12 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" style=\"background-color: rgb(255, 255, 255);\">\n\n    \n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-features4\" style=\"color: black;\"></a></div>\n                    <div class=\"card-block\">\n                        <h2 class=\"card-title mbr-editable-content\" code-editable-id=\"139\">QUICK SUPPORT</h2>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"140\">We are available every weekday and after hours via email. We always respond within 24 hours.</p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"mbri-setting mbr-iconfont mbr-iconfont-features4\" style=\"color: black;\"></a></div>\n                    <div class=\"card-block\">\n                        <h2 class=\"card-title mbr-editable-content\" code-editable-id=\"141\">CUTTING EDGE TOOLS</h2>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"142\">Why delegate what you can automate. Our in house development team builds custom solutions to automate even the most specific tasks with ease.</p>\n                        \n                    </div>\n                </div>\n          </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 40px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"mbri-like mbr-iconfont mbr-iconfont-features4\" style=\"color: black;\"></a></div>\n                    <div class=\"card-block\">\n                        <h2 class=\"card-title mbr-editable-content\" code-editable-id=\"143\">EXCLUSIVE</h2>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"144\">We are exclusive in the way we market our clients. This means if you are a roofer working in Detroit we will not work with another roofing company in your area.</p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n        \n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".card-subtitle {\n\tcolor: #bcbcbc;\n}\n.iconbox {\n\tbackground-color: #ffffff;\n\tborder-color: #ffffff;\n}\nP {\n\tcolor: #000000;\n}\nH4 {\n\tcolor: #000000;\n}\n",
+          "_customTemplate": true
         },
         {
           "_inherit": "social-buttons2",
