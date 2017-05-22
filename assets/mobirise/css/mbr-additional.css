@@ -3,7 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
-
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 
 
 
@@ -11,11 +11,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Oswald', sans-serif;
+  font-family: undefined;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Oswald', sans-serif;
+  font-family: undefined;
 }
 .btn,
 .alert,
@@ -1729,14 +1729,14 @@ h6,
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #000000;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Droid Serif', serif;
 }
 #menu-0 .link {
-  font-size: 1rem;
+  font-size: 0.75rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 0.812rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
